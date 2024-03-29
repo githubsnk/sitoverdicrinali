@@ -8276,9 +8276,19 @@ th, td {
 	color: red;
 }
 
-.blinking-text {
+.blinking-textwhite {
   animation: blink 1s step-start infinite;
   color: #ffffff;
+}
+
+.blinking-textblack {
+  animation: blink 1s step-start infinite;
+  color: #000000;
+}
+
+.blinking-textblue {
+  animation: blink 1s step-start infinite;
+  color: #005ac1;
 }
 
 @keyframes blink {
