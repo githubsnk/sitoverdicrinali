@@ -8294,8 +8294,13 @@ th, td {
 @keyframes blink {
   50% {
       opacity: 0;      
-  }
-  
-  
+  } 
+}
+
+.li-introduzione{
+  color: #fff;
+  font-style: italic;
+  margin-top: 10px;
+  font-family: "PT Serif", serif;
 }
 
